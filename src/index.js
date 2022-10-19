@@ -1,3 +1,3 @@
-import Plotly from "./components/Plotly.vue";
+import PlotlyJs from "./components/PlotlyJs.vue";
 
-export { Plotly };
+export { PlotlyJs };
